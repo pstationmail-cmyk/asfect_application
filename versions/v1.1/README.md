@@ -14,10 +14,11 @@ DMGを開き、`プレイリスト作成アプリ.app` を `Applications` フォ
 - Excel `.xlsx` 読み込みに対応
 - QLab 5ワークスペース作成に対応
 - GitHubからのアップデート確認に対応
+- GitHubダウンロード時にmacOSで破損扱いされる問題を避けるため、アプリ内部実行ファイル名と署名を修正
 
 ## チェックサム
 
 ```text
-SHA256 DMG: 52529f7393ffb02322dd28bdf406cfd280641a373955b8d717937ce3285e12f4
-SHA256 ZIP: 414d2649e3c4b5fe361b7f28fcd8b53c3fbac5bb79a0183a93e04a4d9b8ee992
+SHA256 DMG: 2879ca262ebfc1852f0028e8f67980a1a78ecd30b8891e6d0b63275e80fc6399
+SHA256 ZIP: e2717c6378e8f28fed81e3d02249a29cd353b61994a195f8501bfc7f60a205d7
 ```
