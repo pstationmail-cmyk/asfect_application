@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
-  "dmgURL": "https://github.com/pstationmail-cmyk/asfect_application/raw/main/versions/v1.1/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA_v1.1.dmg",
-  "notes": "Excel読み込み、QLab 5ワークスペース作成、アップデート確認に対応しました。GitHubダウンロード時にmacOSで破損扱いされる問題を避けるため、署名を修正しています。"
+  "version": "1.1.1",
+  "dmgURL": "https://github.com/pstationmail-cmyk/asfect_application/raw/main/versions/v1.1.1/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA_v1.1.1.dmg",
+  "notes": "チェック項目と入力欄の表示をmacOSの外観差に影響されにくくし、初期フォルダ名を空欄にしました。"
 }
